@@ -1,3 +1,3 @@
-# MatthewWong.github.io
+# Matthew Wong's Homepage
 
-Currently a rookie developer, please come back later...
+Amateur game developer. Please come back later!
